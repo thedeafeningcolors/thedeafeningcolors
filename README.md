@@ -1,1 +1,1 @@
-## I (have no software engineering experience, but I do) build stuff with Claude Code to make my life / my colleagues' lives easier: EdTech StartUp Operations (CRM Automation, Customer Success, Workflow Optimization, and more).
+## I build stuff with Claude Code to make my life / my colleagues' lives easier: EdTech StartUp Operations (CRM Automation, Customer Success, Sales, Partnerships, Marketing, Customer Acquisition, Workflow Optimization, and more).
